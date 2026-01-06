@@ -78,6 +78,7 @@ permalink: /therabits/
       Grundlage: Deliberate Practice in der Psychotherapie-Ausbildung.
     </p>
   </div>
+</div>
 </section>
 
 <section class="section" id="plattform">
@@ -199,8 +200,8 @@ permalink: /therabits/
 		<p class="muted">Lehrstuhl für Klinische Psychologie und Psychotherapie IV</p>
         <p class="muted"></p>
       </div>
-</div>
     </div>
+    
 
     <div class="panel">
       <h3>Kooperation & Ausblick</h3>

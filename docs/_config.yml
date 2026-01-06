@@ -1,0 +1,10 @@
+title: "therabits"
+description: "A Personalized AI-Powered Psychotherapy Skills Lab"
+url: "https://westermannlab.github.io"
+baseurl: "/therabits"
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed

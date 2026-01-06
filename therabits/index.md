@@ -193,7 +193,7 @@ permalink: /therabits/
         <p class="muted">Lehrstuhl für Forschungsmethodik und Statistik in der Psychologie</p>
         <p>
         </p>
-      
+      </div>
       <div class="panel">
         <h3>Dr. Marcel Riehle</h3>
 		<p class="muted">Lehrstuhl für Klinische Psychologie und Psychotherapie IV</p>

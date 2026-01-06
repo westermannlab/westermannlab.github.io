@@ -7,12 +7,6 @@ permalink: /therabits/
 <div class="hero">
   <div class="wrap hero-grid">
 
-    <!-- Uni Witten/Herdecke Logo -->
-    <div class="uwh-logo">
-      <img src="{{ '/assets/img/uwh_logo.svg' | relative_url }}"
-           alt="Universität Witten/Herdecke" />
-    </div>
-
     <div>
       <div class="kicker">A Personalized AI-Powered Psychotherapy Skills Lab</div>
       <h1>therabits</h1>
@@ -143,10 +137,6 @@ permalink: /therabits/
         </ul>
       </div>
     </div>
-    <p class="muted small">
-      Perspektive: transdisziplinärer Einsatz (Medizin, Pflege,
-      weitere Gesundheitsberufe).
-    </p>
   </div>
 </section>
 
@@ -210,19 +200,15 @@ permalink: /therabits/
   </div>
 </section>
 
-<section class="section">
-  <div class="wrap final-cta">
-    <div class="panel">
-      <h2>Interesse an Kooperation oder Pilotierung?</h2>
-      <p class="lead">
-        Schreiben Sie gern eine E-Mail.
-      </p>
-      <div class="cta-row">
-        <a class="btn"
-           href="mailto:stefan.westermann@uni-wh.de">
-          E-Mail schreiben
-        </a>
-      </div>
-    </div>
+<!-- Förderhinweis -->
+<section class="section section-muted">
+  <div class="wrap funding">
+    <p class="muted small">
+      Das Projekt <strong>therabits</strong> wird vom Kuratorium der
+      Universität Witten/Herdecke gefördert.
+    </p>
+    <img src="{{ '/assets/img/uwh_logo.svg' | relative_url }}"
+         alt="Universität Witten/Herdecke"
+         class="uwh-logo-footer" />
   </div>
 </section>

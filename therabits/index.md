@@ -6,6 +6,9 @@ permalink: /therabits/
 
 <div class="hero">
     <div class="wrap hero-grid">
+        <div class="uwh-logo" aria-label="Universität Witten/Herdecke">
+            <img src="https://www.uni-wh.de/fileadmin/user_upload/01_Dein_Studium/0_Allgemeines/Siegel_Rankings/uwh-siegel_web_de.svg" alt="Universität Witten/Herdecke" loading="lazy" />
+        </div>
         <div>
             <div class="kicker">A Personalized AI-Powered Psychotherapy Skills Lab</div>
             <h1>therabits</h1>
@@ -146,18 +149,21 @@ der freies, experimentierendes und risikofreies Üben ermöglicht.
         <h2>Team</h2>
         <div class="grid-2">
             <div class="panel">
+                <img class="team-photo" src="https://www.uni-wh.de/fileadmin/_processed_/2/a/csm_westermann-stefan-2024_275336c075.jpg" alt="Porträtfoto von Univ.-Prof. Dr. Stefan Westermann" loading="lazy" />
                 <h3>Univ.-Prof. Dr. Stefan Westermann</h3>
                 <p class="muted">Lehrstuhl für Klinische Psychologie und Psychotherapie IV</p>
                 <p>
                 </p>
             </div>
             <div class="panel">
+                <img class="team-photo" src="https://www.uni-wh.de/fileadmin/_processed_/9/0/csm_ostermann-thomas-2024_249c8594fc.jpg" alt="Porträtfoto von Univ.-Prof. Dr. Thomas Ostermann" loading="lazy" />
                 <h3>Univ.-Prof. Dr. Thomas Ostermann</h3>
                 <p class="muted">Lehrstuhl für Forschungsmethodik und Statistik in der Psychologie</p>
                 <p>
                 </p>
             </div>
             <div class="panel">
+                <img class="team-photo" src="https://www.uni-wh.de/fileadmin/_processed_/c/1/csm_riehle-marcel-2024_0a03a963ad.jpg" alt="Porträtfoto von Dr. Marcel Riehle" loading="lazy" />
                 <h3>Dr. Marcel Riehle</h3>
                 <p class="muted">Lehrstuhl für Klinische Psychologie und Psychotherapie IV</p>
                 <p class="muted"></p>

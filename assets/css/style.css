@@ -208,3 +208,15 @@ h1{
 .footer-links a:hover{color:var(--text)}
 .footer a { text-decoration: none; }
 .footer a:hover { text-decoration: underline; }
+
+.uni-logo img {
+  max-width: 180px;
+  margin-bottom: 1rem;
+}
+
+.team-photo {
+  width: 120px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+}

@@ -1,0 +1,7 @@
+title: "westermannlab"
+description: "Westermann Lab"
+url: "https://westermannlab.github.io"
+baseurl: ""
+
+markdown: kramdown
+theme: minima

@@ -43,6 +43,7 @@ permalink: /therabits/
         </p>
       </div>
     </div>
+
   </div>
 </div>
 
@@ -77,6 +78,7 @@ permalink: /therabits/
     <p class="muted small">
       Grundlage: Deliberate Practice in der Psychotherapie-Ausbildung.
     </p>
+
   </div>
 </div>
 </section>
@@ -119,6 +121,7 @@ permalink: /therabits/
         <li>Weitere therapeutische Mikroskills je Kompetenzbereich</li>
       </ul>
     </div>
+
   </div>
 </section>
 
@@ -143,37 +146,11 @@ permalink: /therabits/
         </ul>
       </div>
     </div>
-        <div>
-          <div class="t-title">Monat 1–9</div>
-          <div class="t-text">Implementierung der therabits-Lernplattform</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="t-dot"></div>
-        <div>
-          <div class="t-title">Monat 1–6 (→ 7–9 Feinschliff)</div>
-          <div class="t-text">Erarbeitung der Prompts + Finetuning mit Prototyp</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="t-dot"></div>
-        <div>
-          <div class="t-title">Monat 9–21</div>
-          <div class="t-text">Pilotierung mit Studierenden (UW/H)</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="t-dot"></div>
-        <div>
-          <div class="t-title">Monat 22–24</div>
-          <div class="t-text">Publikationen/Kongresse + Drittmittelanträge (DFG/BMBF)</div>
-        </div>
-      </div>
-    </div>
-
+  
     <p class="muted small">
       Perspektive: transdisziplinärer Einsatz (z.B. Medizin, Pflegewissenschaften) und potenziell auch in Prüfungsformaten.
     </p>
+
   </div>
 </section>
 
@@ -209,6 +186,7 @@ permalink: /therabits/
         Aufbau transdisziplinärer Kooperationen zur evidenzbasierten, kompetenzorientierten Lehre im Gesundheitssystem.
       </p>
     </div>
+
   </div>
 </section>
 
@@ -236,6 +214,7 @@ permalink: /therabits/
         Hinweis: Diese Seite dient der Information über das Projekt „therabits“.
       </p>
     </div>
+
   </div>
 </section>
 
@@ -253,3 +232,5 @@ permalink: /therabits/
     </div>
   </div>
 </section>
+
+</div>
